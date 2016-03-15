@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'AlegreyaSansSCBlackItalic';
+    src: url('alegreyasanssc-blackitalic.eot');
+    src: url('alegreyasanssc-blackitalic.eot') format('embedded-opentype'),
+         url('alegreyasanssc-blackitalic.woff') format('woff'),
+         url('alegreyasanssc-blackitalic.ttf') format('truetype'),
+         url('alegreyasanssc-blackitalic.svg#AlegreyaSansSCBlackItalic') format('svg');
+}
